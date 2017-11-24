@@ -1,0 +1,87 @@
+.nav {
+    margin: 0px;
+    height: 65px;
+    background-color: #f4f4f5;
+}
+
+.nav .container-header {
+    padding: 0px 15px;
+}
+
+.nav .container-header .navbar-header {
+    position: relative;
+    float: left;
+}
+
+.nav .container-header .navbar-header .navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 10px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.nav .container-header .navbar-header .navbar-brand img {
+    height: 35px;
+}
+
+.nav-right {
+    float: right;
+}
+
+.nav .container-header .navbar-form {
+    padding: 0px;
+    margin: 0px -15px;
+    border: none;
+}
+
+.nav .container-header .navbar-form .form-group {
+    margin: 15px 5px;
+    vertical-align: middle;
+}
+
+.nav .container-header .navbar-form .form-group a {
+    color: #6a747f;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0px 5px;
+}
+
+.nav .container-header .navbar-form .form-group a img {
+    height: 25px;
+    width: 25px;
+}
+
+.nav .container-header .navigation {
+    height: 100%;
+    position: static;
+}
+
+.nav .container-header .navbar-nav {
+    float: left;
+    margin: 0px;
+}
+
+.nav .container-header ul {
+    display: block;
+    -webkit-padding-start: 10px;
+    list-style: none;
+}
+
+.nav .container-header ul li {
+    float: left;
+}
+
+.nav .container-header .navbar-nav ul {
+    display: inline;
+}
+
+.nav .container-header .navbar-nav li a {
+    color: #6a747f;
+    margin-top: 5px;
+    font-weight: 700;
+    padding: 20px 10px;
+    position: relative;
+    display: block;
+    text-decoration: none;
+}
